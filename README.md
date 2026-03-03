@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/georgelemon/adap/blob/main/.github/ADAP.png" width="90px" height="90px" alt="Booyaka Logo"><br>
-  Another Day Another Package
+  <img src="https://github.com/georgelemon/adap/blob/main/.github/ADAP.png" width="320px" height="72px" alt="Booyaka Logo"><br>
+  Another Day Another Package<br>
   An awesome list of Nim wrappers, bindings, API clients and packages 👑 Written in Nim language<br>Made by Humans from OpenPeeps
 </p>
 
