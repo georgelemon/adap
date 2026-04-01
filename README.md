@@ -13,7 +13,7 @@ Here you can find a long list of projects and products built with Nim language, 
 - [Supranim](https://github.com/supranim/supranim) - A simple and powerful Nim web framework for building web applications with ease. Built on top of Libevent, it provides a high-performance and scalable foundation for your web projects. <kbd>MIT</kbd>
 - [Groovebox](https://github.com/openpeeps/groovebox) - Badass Live Streaming Straight from Your Disk! A powerful RTMP client, server and Icecast client for streaming audio and video content. <kbd>MIT</kbd>
 - [Meowmail](https://github.com/openpeeps/meowmail) - A simple and elegant SMTP server built on top of Libevent. <kbd>MIT</kbd>
-
+- [Sunday](https://github.com/openpeeps/sunday) - WIP ☀️ Sunday - A simple publishing platform powered by Supranim 
 
 ## Nim packages
 A collection of Nim packages for various use cases, providing functionality for different domains and applications. These packages are designed to be easy to use and integrate into your Nim projects.
@@ -36,6 +36,9 @@ A collection of Nim packages for various use cases, providing functionality for 
 - [Nyml](https://github.com/openpeeps/nyml) - A stupid simple YAML parser for Nim, providing a straightforward way to parse YAML data into Nim data structures in your applications. <kbd>MIT</kbd>
 - [Denim](https://github.com/openpeeps/denim) - Node 💖 Nim = Denim! Build powerful NodeJS / BunJS addons with Nim language via Node API (NAPI) <kbd>MIT</kbd>
 - [Iconim](https://github.com/openpeeps/iconim) - 🎁 SVG Icon library manager for server-side rendering
+- [PluginKit](https://github.com/openpeeps/pluginkit) - A plugin system for Nim - Create and manage plugins inside your Nim application
+- [TwoFA](https://github.com/openpeeps/twofa) - A simple 2FA QR Code generator
+- [E2EE](https://github.com/openpeeps/e2ee) - A simple cryptography package based on Monocypher library. Supporting E2EE Streams, Hashing, Key Derivation/Exchange, Seal/Unseal 
 
 ## Nim Bindings
 A collection of Nim bindings for popular C libraries, allowing you to use these libraries directly from Nim code.
